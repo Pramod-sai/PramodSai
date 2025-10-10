@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pramod Sai Kanamaneni
 
-💻 Full Stack Developer | 🧠 Problem Solver | ☁️ Cloud & CI/CD Enthusiast  
+💻 Full Stack Developer | 🧠 Problem Solver | ☁️ Cloud & UI/ UX web tools
 
 I’m passionate about designing dynamic, responsive web applications that merge clean front-end design with powerful, secure back-end architecture. I build scalable systems using modern frameworks like Angular, React, and .NET Core — with automation and cloud deployment as a standard.
 
@@ -66,13 +66,8 @@ Responsive task-tracking dashboard integrated with REST APIs and SQL Server.
 ### 🔹 [Loan Management System](https://github.com/PramodSaiKanamaneni/Loan-Management-System)
 Automated loan creation, EMI calculation, and penalty tracking built using Laravel & Bootstrap.
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PramodSaiKanamaneni&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodSaiKanamaneni&layout=compact&theme=tokyonight)
-
+...more
 ---
 
 ## 🤝 Connect With Me
