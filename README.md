@@ -9,7 +9,7 @@ I’m passionate about designing dynamic, responsive web applications that merge
 ## 🧠 About Me
 🎓 Master’s in Computer & Information Systems – Southern Arkansas University, USA  
 💼 2+ years of experience as a Full Stack Developer designing, developing, and deploying enterprise-grade web applications  
-⚙️ Experienced in **Angular**, **React**, **ASP.NET MVC**, and **Entity Framework**  
+⚙️ Experienced in **Angular**, **React**, **AWS CLOUD**, and **Entity Framework**  
 🧩 Skilled at building **RESTful APIs**, implementing **JWT/OAuth2 authentication**, and optimizing **SQL Server performance**  
 🚀 Hands-on with **AWS App Services**, **AWS DevOps Pipelines**, and **PostgreSQL Cloud Databases**  
 🎯 Goal: To deliver robust, maintainable, and user-friendly software solutions that scale with business needs  
