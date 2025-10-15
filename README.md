@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pramod Sai
 
-💻 Full Stack Developer | 🧠 Problem Solver | ☁️ Cloud & UI/ UX web tools
+💻 Developer | 🧠 Problem Solver | ☁️ Cloud & UI/ UX web tools
 
 I’m passionate about designing dynamic, responsive web applications that merge clean front-end design with powerful, secure back-end architecture. I build scalable systems using modern frameworks like Angular, React, and .NET Core — with automation and cloud deployment as a standard.
 
